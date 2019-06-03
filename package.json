@@ -1,0 +1,22 @@
+{
+  "name": "props-dq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "mocha -w ./test/*.js",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBartl/props-dq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBartl/props-dq/issues"
+  },
+  "homepage": "https://github.com/MBartl/props-dq#readme"
+}
